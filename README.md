@@ -1,5 +1,5 @@
 # MARVELous Comics (Disney Android Coding Challenge)
-
+An Android App written in Kotlin that uses the Marvel developer Comics API to retrieve a list of comics. Clicking on a comic in the list will reveal a new screen with comic details (title, description, image) as well as a button to link to that comic online.
 
 ## Inserting your API Key and Hash
 
